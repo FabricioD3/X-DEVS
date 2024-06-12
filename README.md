@@ -58,6 +58,9 @@ Contato
 Para dúvidas ou suporte, entre em contato:
 
 Nome: José Fabrício
+
 GitHub: FabricioD3
+
 LinkedIn: José Fabrício
+
 Link do Projeto: https://github.com/FabricioD3/X-DEVS
